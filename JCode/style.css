@@ -1,0 +1,52 @@
+.box1{
+    float: right;
+    color: #1aff1a;
+}
+
+.box2{
+    float: left;
+    color: #1aff1a;
+}
+.demo {
+    border:1px solid  #1aff1a;
+    border-collapse:collapse;
+    padding:5px;
+}
+.demo th {
+    border:1px solid  #1aff1a;
+    padding:5px;
+    background:#F0F0F0;
+}
+.demo td {
+    border:1px solid  #1aff1a;
+    padding:5px;
+}
+.button3{
+    float: right;
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button2 {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    float: right;
+  }
