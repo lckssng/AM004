@@ -71,3 +71,11 @@
 	border:1px solid #FFA07A;
 	padding:4px;
 }
+
+.button2{
+	background-color: #E8E8E8; 
+  color: #f44336; 
+  border: 2px solid #FFA07A;
+  float: right;
+  padding: 9px 28px;
+}
